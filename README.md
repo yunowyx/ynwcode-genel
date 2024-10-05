@@ -1,0 +1,2 @@
+# ynwcode-genel
+Ynw
